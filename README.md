@@ -2,7 +2,6 @@
 
 - 🌱 Estudando Java e Angular
 - 📫 Contate-me no email: lazarobass222@gmail.com
-- 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://github.com/lazarosantosbx">
