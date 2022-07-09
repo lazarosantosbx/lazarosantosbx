@@ -1,6 +1,6 @@
 ## Olá, tudo bem? Eu sou Lázaro Santos👋
 
-- 🌱 Estudando Java e Angular
+- 🌱 Estudando HTML, CSS E JAVASCRIPT
 - 📫 Contate-me no email: lazarobass222@gmail.com
 
 <div>
@@ -11,12 +11,10 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Angular" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
+  <img align="center" alt="JS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Csharp" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Java" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div><br>
 
 ##
