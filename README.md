@@ -1,6 +1,6 @@
 ## Olá, tudo bem? Eu sou Lázaro Santos👋
 
-- 🌱 Estudando HTML, CSS E JAVASCRIPT
+- 🌱 Estudando C#
 - 📫 Contate-me no email: lazarobass222@gmail.com
 
 <div>
