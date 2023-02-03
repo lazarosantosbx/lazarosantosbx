@@ -1,8 +1,5 @@
 ## Olá, tudo bem? Eu sou Lázaro Santos👋
 
-- 🌱 Estudando C#
-- 📫 Contate-me no email: lazarobass222@gmail.com
-
 <div>
   <a href="https://github.com/lazarosantosbx">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lazarosantosbx&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=false&show_owner=true"/>
